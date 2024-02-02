@@ -1,4 +1,4 @@
-package week02_practice_tasks;
+package week02_review;
 
 public class VariablesPractice {
     public static void main(String[] args) {
